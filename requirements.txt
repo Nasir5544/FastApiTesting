@@ -1,0 +1,5 @@
+pip install fastapi 
+pip install sqlalchemy 
+pip install typing 
+pip install cryptography
+pip install uvicorn
